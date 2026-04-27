@@ -26,8 +26,8 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
-    { icon: <Facebook size={20} />, href: "https://www.facebook.com/share/185GfzJX67/", color: "text-[#1877F2]", hoverBg: "hover:bg-[#1877F2]/10" },
-    { icon: <Instagram size={20} />, href: "https://www.instagram.com/mastermindclassesmbd?igsh=MTM5aGJjNjRuM3d3aw==", color: "text-[#E4405F]", hoverBg: "hover:bg-[#E4405F]/10" },
+    { icon: <Facebook size={20} />, href: "#", color: "text-[#1877F2]", hoverBg: "hover:bg-[#1877F2]/10" },
+    { icon: <Instagram size={20} />, href: "#", color: "text-[#E4405F]", hoverBg: "hover:bg-[#E4405F]/10" },
     { icon: <Youtube size={20} />, href: "#", color: "text-[#FF0000]", hoverBg: "hover:bg-[#FF0000]/10" },
   ];
 
@@ -67,7 +67,7 @@ const Footer = () => {
             <div className="absolute top-0 right-0 w-64 h-64 bg-indigo-600/5 blur-3xl rounded-full -mr-32 -mt-32"></div>
             <div className="relative z-10 text-center md:text-left">
               <h2 className="text-2xl sm:text-3xl font-bold mb-3">Ready to transform your future?</h2>
-              <p className="text-gray-400 max-w-md">Join Master Mind Classes today and start your journey towards academic excellence with our expert faculty.</p>
+              <p className="text-gray-400 max-w-md">Join xyz Classes today and start your journey towards academic excellence with our expert faculty.</p>
             </div>
             <Link
               to="/contact#contact-form"
@@ -169,7 +169,7 @@ const Footer = () => {
                 </div>
                 <div className="text-sm">
                   <p className="text-white font-medium mb-1">Phone Number</p>
-                  <Link to="/contact" className="text-gray-400 hover:text-indigo-400 transition-colors">+91 9058192418 , +91 9058092418</Link>
+                  <Link to="/contact" className="text-gray-400 hover:text-indigo-400 transition-colors">+91  , +91 </Link>
                 </div>
               </li>
               <li className="flex items-start gap-4 group">
@@ -178,7 +178,7 @@ const Footer = () => {
                 </div>
                 <div className="text-sm">
                   <p className="text-white font-medium mb-1">Email Address</p>
-                  <a href="mailto:info@mastermindclassesmbd.com" className="text-gray-400 hover:text-indigo-400 transition-colors">info@mastermindclassesmbd.com</a>
+                  <a href="mailto:info@mastermindclassesmbd.com" className="text-gray-400 hover:text-indigo-400 transition-colors">info@xyzclasses.com</a>
                 </div>
               </li>
             </ul>
@@ -188,7 +188,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800/50 pt-10 flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-gray-500 text-sm">
-            &copy; {currentYear} <span className="text-indigo-400 font-semibold">Master Mind Classes</span>. All rights reserved. Developed by <span className="text-indigo-400 font-semibold"> xyz Technologies. </span>
+            &copy; {currentYear} <span className="text-indigo-400 font-semibold">xyz Classes</span>. All rights reserved. Developed by <span className="text-indigo-400 font-semibold"> xyz Technologies. </span>
           </div>
           <div className="flex gap-8 text-sm text-gray-500">
             <button onClick={() => setModalContent('privacy')} className="hover:text-indigo-400 transition-colors bg-transparent border-none p-0 cursor-pointer">Privacy Policy</button>
