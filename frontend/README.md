@@ -2,11 +2,8 @@
 
 ## 🚀 Key URLs
 *   **Main Website**: [http://localhost:5000](http://localhost:5000)
-*   **Admin Dashboard**: [http://localhost:5000/admin/login](http://localhost:5000/admin/login)
 
-## 🔐 Administrative Access
-*   **Email**: `info@mastermindclassesmbd.com`
-*   **Password**: `12345678`
+
 
 ---
 
