@@ -7,7 +7,7 @@ Efficiently manage your institute's website, faculty, and student registrations 
 Once the server is running, you can access the application at:
 
 *   **Main Website**: [http://localhost:5000](http://localhost:5000)
-*   **Admin Dashboard**: [http://localhost:5000/admin/login](http://localhost:5000/admin/login)
+
 
 ---
 
