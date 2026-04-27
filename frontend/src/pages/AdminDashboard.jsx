@@ -710,7 +710,7 @@ const AdminDashboard = () => {
         <div className="relative flex flex-col items-center justify-center border-b border-white/5 pt-2 pb-14 px-2 overflow-hidden mb-2">
           <img 
             src={settings.logo_url || '/logo-transparent.png'} 
-            alt="Master Mind Classes" 
+            alt="xyz Classes" 
             className="w-full max-w-[240px] h-auto object-contain drop-shadow-2xl transition-transform hover:scale-105 -mt-6" 
           />
           
