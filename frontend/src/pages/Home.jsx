@@ -170,7 +170,7 @@ const Home = () => {
             </div>
 
             <div className="lg:w-1/2">
-              <h2 className="text-3xl md:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Why Choose <span className="text-indigo-600">Master Mind?</span></h2>
+              <h2 className="text-3xl md:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Why Choose <span className="text-indigo-600">xyzclasses?</span></h2>
               <p className="text-lg text-gray-600 mb-10 leading-relaxed">
                 We go beyond traditional teaching methods. Our holistic approach ensures that every student gets the attention and resources they need to thrive academically.
               </p>
@@ -204,7 +204,7 @@ const Home = () => {
       <div className="py-20 bg-slate-50 border-t border-slate-200/60">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <span className="text-indigo-600 font-black tracking-widest uppercase text-sm mb-3 block">Life at Master Mind</span>
+            <span className="text-indigo-600 font-black tracking-widest uppercase text-sm mb-3 block">Life at xyzclasses</span>
             <h2 className="text-3xl md:text-5xl font-bold text-gray-900 mb-4 tracking-tight">Our <span className="text-indigo-600">Activities</span></h2>
             <div className="w-24 h-1.5 bg-indigo-600 mx-auto rounded-full mb-6"></div>
             <p className="text-lg text-gray-500 max-w-2xl mx-auto">Beyond academics — celebrations, events, competitions, and moments that make learning memorable.</p>
