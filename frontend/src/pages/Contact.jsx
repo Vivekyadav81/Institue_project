@@ -63,15 +63,15 @@ const Contact = () => {
                 <Phone className="text-indigo-400 mt-1" size={28} />
                 <div>
                   <p className="font-semibold mb-1">Phone</p>
-                  <p className="text-indigo-100">+91 9058192418</p>
-                  <p className="text-indigo-100">+91 9058092418</p>
+                  <p className="text-indigo-100">+91 </p>
+                  <p className="text-indigo-100">+91 </p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
                 <Mail className="text-indigo-400 mt-1" size={28} />
                 <div>
                   <p className="font-semibold mb-1">Email</p>
-                  <p className="text-indigo-100">info@mastermindclassesmbd.com</p>
+                  <p className="text-indigo-100">info@xyzclasses.com</p>
 
                 </div>
               </div>
@@ -79,7 +79,7 @@ const Contact = () => {
                 <MapPin className="text-indigo-400 mt-1" size={28} />
                 <div>
                   <p className="font-semibold mb-1">Location</p>
-                  <p className="text-indigo-100">Family Mart, Near Aryans International School, Buddhi Vihar, Moradabad - 244001</p>
+                  <p className="text-indigo-100">xyz location</p>
                 </div>
               </div>
             </div>
