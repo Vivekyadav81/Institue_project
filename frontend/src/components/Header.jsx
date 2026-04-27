@@ -72,10 +72,10 @@ const Header = () => {
 
           {/* Social Links */}
           <div className="flex items-center gap-6 px-8 border-x border-white/10 mx-6 h-6">
-            <a href="https://www.facebook.com/share/185GfzJX67/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-[#1877F2] transition-all transform hover:scale-110">
+            <a href="#" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-[#1877F2] transition-all transform hover:scale-110">
               <Facebook size={18} />
             </a>
-            <a href="https://www.instagram.com/mastermindclassesmbd?igsh=MTM5aGJjNjRuM3d3aw==" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-[#E4405F] transition-all transform hover:scale-110">
+            <a href="#" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-[#E4405F] transition-all transform hover:scale-110">
               <Instagram size={18} />
             </a>
             <a href="#" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-[#FF0000] transition-all transform hover:scale-110">
@@ -86,10 +86,10 @@ const Header = () => {
           {/* Contact Info */}
           <div className="flex items-center gap-8">
             <Link to="/contact" className="flex items-center gap-3 text-sm font-bold text-slate-300 uppercase tracking-widest whitespace-nowrap hover:text-white transition-colors">
-              <Phone size={16} className="text-red-500" /> +91 9058192418
+              <Phone size={16} className="text-red-500" /> +91 
             </Link>
             <a href="mailto:info@mastermindclassesmbd.com" className="flex items-center gap-3 text-sm font-bold text-slate-300 tracking-widest border-l border-slate-700 pl-8 whitespace-nowrap hover:text-white transition-colors">
-              <Mail size={16} className="text-red-500" /> info@mastermindclassesmbd.com
+              <Mail size={16} className="text-red-500" /> info@xyzclasses.com
             </a>
           </div>
         </div> {/* end desktop flex bar */}
