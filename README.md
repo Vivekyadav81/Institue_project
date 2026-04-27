@@ -13,10 +13,7 @@ Once the server is running, you can access the application at:
 
 ## 🔐 Administrative Access
 
-Access the dashboard using these verified credentials:
 
-*   **Email**: `info@mastermindclassesmbd.com`
-*   **Password**: `12345678`
 
 > [!TIP]
 > Always keep your `JWT_SECRET` secure in the `backend/.env` file. Do not share your administrative password.
