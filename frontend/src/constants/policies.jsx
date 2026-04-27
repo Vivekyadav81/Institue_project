@@ -4,7 +4,7 @@ export const POLICIES = {
       content: (
         <div className="space-y-4 text-gray-300">
           <p>Last updated: {new Date().toLocaleDateString()}</p>
-          <p>Your privacy is important to us. It is Master Mind Classes' policy to respect your privacy regarding any information we may collect while operating our website.</p>
+          <p>Your privacy is important to us. It is xyzclasses Classes' policy to respect your privacy regarding any information we may collect while operating our website.</p>
           <h4 className="text-white font-semibold flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-indigo-500"></span>
             1. Information We Collect
@@ -33,17 +33,17 @@ export const POLICIES = {
             <span className="w-2 h-2 rounded-full bg-indigo-500"></span>
             1. Use License
           </h4>
-          <p>Permission is granted to temporarily download one copy of the materials (information or software) on Master Mind Classes' website for personal, non-commercial transitory viewing only.</p>
+          <p>Permission is granted to temporarily download one copy of the materials (information or software) on xyzclasses Classes' website for personal, non-commercial transitory viewing only.</p>
           <h4 className="text-white font-semibold flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-indigo-500"></span>
             2. Disclaimer
           </h4>
-          <p>The materials on Master Mind Classes' website are provided on an 'as is' basis. Master Mind Classes makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability.</p>
+          <p>The materials on xyzclasses Classes' website are provided on an 'as is' basis. xyzclasses Classes makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability.</p>
           <h4 className="text-white font-semibold flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-indigo-500"></span>
             3. Limitations
           </h4>
-          <p>In no event shall Master Mind Classes or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Master Mind Classes' website.</p>
+          <p>In no event shall xyzclasses Classes or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on xyzclasses Classes' website.</p>
         </div>
       )
     },
