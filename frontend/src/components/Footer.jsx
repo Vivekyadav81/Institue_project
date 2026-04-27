@@ -188,7 +188,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800/50 pt-10 flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-gray-500 text-sm">
-            &copy; {currentYear} <span className="text-indigo-400 font-semibold">Master Mind Classes</span>. All rights reserved. Developed by <span className="text-indigo-400 font-semibold"> Hatbaliya Technologies. </span>
+            &copy; {currentYear} <span className="text-indigo-400 font-semibold">Master Mind Classes</span>. All rights reserved. Developed by <span className="text-indigo-400 font-semibold"> xyz Technologies. </span>
           </div>
           <div className="flex gap-8 text-sm text-gray-500">
             <button onClick={() => setModalContent('privacy')} className="hover:text-indigo-400 transition-colors bg-transparent border-none p-0 cursor-pointer">Privacy Policy</button>
