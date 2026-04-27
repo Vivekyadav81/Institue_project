@@ -17,7 +17,7 @@ const About = () => {
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
             className="text-5xl font-extrabold mb-6"
           >
-            About <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">Master Mind</span>
+            About <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">xyzclasses</span>
           </motion.h1>
           <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.2 }} className="text-xl text-indigo-100">
             Shaping the future of students since 2017 with unyielding dedication to academic excellence and holistic development.
@@ -33,7 +33,7 @@ const About = () => {
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-6 border-l-4 border-indigo-600 pl-4">Our Story</h2>
               <p className="text-gray-600 leading-relaxed font-medium mb-4">
-                Established in 2017, Master Mind Classes was founded with a singular vision: to turn every student's potential into performance.
+                Established in 2017, xyzclasses was founded with a singular vision: to turn every student's potential into performance.
               </p>
               <p className="text-gray-600 leading-relaxed font-medium">
                 We believe that education is not just about scoring marks, but about developing a deep understanding of concepts and cultivating a lifelong love for learning. Our expert faculty and smart infrastructure create the perfect ecosystem for success.
