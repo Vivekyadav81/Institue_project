@@ -99,7 +99,7 @@ const Register = () => {
           <div className="bg-indigo-600 px-8 py-10 text-white text-center relative overflow-hidden">
             <div className="absolute top-0 right-0 -mt-10 -mr-10 w-40 h-40 bg-white opacity-10 rounded-full blur-2xl"></div>
             <h2 className="text-3xl font-extrabold mb-2 relative z-10">Register Now</h2>
-            <p className="text-indigo-100 relative z-10">Join Master Mind Classes and secure your child's future.</p>
+            <p className="text-indigo-100 relative z-10">Join xyzclasses and secure your child's future.</p>
           </div>
 
           <div className="p-8 sm:p-12">
