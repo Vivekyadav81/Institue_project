@@ -1,0 +1,12 @@
+# Ignore dependencies
+node_modules/
+dist/
+
+# Ignore environment variables
+.env
+
+# Ignore large zip files (GitHub limit is 100MB)
+*.zip
+
+# Ignore temporary files
+tmp/
